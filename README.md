@@ -20,7 +20,11 @@ BLU BLU BLU
 
 ## Installation
 
+    go get github.com/avinassh/gofish
     go install github.com/avinassh/gofish
+
+
+Then you can run `gofish` on the command line to go BLU BLU BLU!
 
 ## License
 
