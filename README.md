@@ -26,6 +26,11 @@ BLU BLU BLU
 
 Then you can run `gofish` on the command line to go BLU BLU BLU!
 
+## Docker
+```
+docker build -t gofish .
+docker run -t gofish 
+```
 ## License
 
 The mighty MIT license. Please check `LICENSE` for more details.
